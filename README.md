@@ -20,6 +20,8 @@ Depois de executado o hot reload, inicie o projeto em modo de desenvolvimento co
 
 ### Gerando o executável do projeto
 
+Infelizmente o projeto não está funcionando como esperado quando gerado o executável. **Estou aberto a PRs de correção**.
+
 #### Android
 
 Para acessar o tutorial para geração do .apk, [clique aqui](https://instamobile.io/android-development/generate-react-native-release-build-android/).
